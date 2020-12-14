@@ -1,0 +1,23 @@
+[*]
+[*] GTKWave Analyzer v3.3.97 (w)1999-2018 BSI
+[*] Tue Nov 10 15:35:45 2020
+[*]
+[dumpfile] "/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/FPGA/Material Lecture 01 - 28.10.2020/simple_gate.vcd"
+[dumpfile_mtime] "Tue Nov 10 15:32:11 2020"
+[dumpfile_size] 875
+[savefile] "/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/FPGA/Material Lecture 01 - 28.10.2020/simple_gate.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-25.901869 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] lecture01_tb.
+[sst_width] 229
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 144
+@28
+lecture01_tb.f
+@29
+lecture01_tb.x
+[pattern_trace] 1
+[pattern_trace] 0

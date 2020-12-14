@@ -1,0 +1,7 @@
+v 4
+file . "bcd.m.vhd" "5d5613709cd9a99704beeb27cf121e25b11c3d93" "20201125155128.699":
+  entity bcd at 6( 141) + 0 on 49;
+  architecture behavior of bcd at 25( 521) + 0 on 50;
+file . "bcd.tb.vhd" "5cf74a011ace24ed07f44a0266a8da0da258bda6" "20201125155128.764":
+  entity bcd_tb at 1( 0) + 0 on 51;
+  architecture tb of bcd_tb at 10( 125) + 0 on 52;

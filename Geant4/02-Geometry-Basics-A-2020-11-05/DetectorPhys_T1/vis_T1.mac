@@ -1,0 +1,56 @@
+# Sets some default verbose
+#
+/control/verbose 2
+/control/saveHistory
+/run/verbose 2
+#
+# create empty scene
+#
+#/vis/open OGLIX
+/vis/open OGL
+/vis/scene/create
+
+############## GUI commands
+/gui/addMenu g4file G4File
+/gui/addButton g4file Continue continue
+/gui/addButton g4file Exit "exit"
+
+# open/save icons
+#/gui/addIcon "Open macro file" open /control/execute
+#/gui/addIcon "Save viewer state" save /vis/viewer/save
+
+# Cursors style icons 
+#/gui/addIcon "Move" move 
+#/gui/addIcon "Pick" pick 
+#/gui/addIcon "Zoom out" zoom_out 
+#/gui/addIcon "Zoom in" zoom_in 
+#/gui/addIcon "Rotate" rotate 
+
+# Surface Style icons
+#/gui/addIcon "Hidden line removal" hidden_line_removal 
+#/gui/addIcon "Hidden line and hidden surface removal" hidden_line_and_surface_removal 
+#/gui/addIcon "Surfaces" solid 
+#/gui/addIcon "Wireframe" wireframe 
+
+# Perspective/Ortho icons
+#/gui/addIcon "Perspective" perspective 
+#/gui/addIcon "Orthographic" ortho 
+
+/vis/viewer/set/viewpointThetaPhi 45 45
+
+
+#/vis/open HepRepFile
+/vis/drawVolume
+/vis/viewer/flush
+/vis/scene/add/trajectories
+/vis/scene/add/hits
+
+
+############## for test 
+/gun/particle e-
+/gun/direction 0 0 1
+/gun/position 0 0 -20 cm
+/gun/energy 10.0 MeV
+################################
+/tracking/storeTrajectory 1
+/vis/scene/endOfEventAction accumulate

@@ -1,0 +1,36 @@
+[*]
+[*] GTKWave Analyzer v3.3.97 (w)1999-2018 BSI
+[*] Wed Nov 25 08:47:22 2020
+[*]
+[dumpfile] "/.automount/home/home__home2/institut_3b/jsteinmann/Public/WS2020/lecture05a/bcd.vcd"
+[dumpfile_mtime] "Wed Nov 25 08:45:55 2020"
+[dumpfile_size] 77055
+[savefile] "/.automount/home/home__home2/institut_3b/jsteinmann/Public/WS2020/lecture05a/bcd.gtkw"
+[timestart] 0
+[size] 1920 969
+[pos] -1 -1
+*-22.972303 90000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] bcd_tb.
+[sst_width] 219
+[signals_width] 182
+[sst_expanded] 1
+[sst_vpaned_height] 287
+@24
+bcd_tb.binary[7:0]
+@22
+bcd_tb.decimal[11:0]
+@200
+-
+-splitted
+@24
+bcd_tb.hundrets[3:0]
+bcd_tb.tens[3:0]
+bcd_tb.ones[3:0]
+@200
+-
+-inside module
+@22
+bcd_tb.bcd1.i_slv_binary[7:0]
+bcd_tb.bcd1.o_slv_decimal[11:0]
+[pattern_trace] 1
+[pattern_trace] 0

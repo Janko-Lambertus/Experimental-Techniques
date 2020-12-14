@@ -1,0 +1,7 @@
+"General Material" -> ". initFPGA.sh"
+
+in den Ordner mit dem Programm
+
+"make" -> "make run" -> "gtkwave"
+
+"File" -> "New Tab" -> "*.vcd" -> Links auf das Programm, damit Signals angezeigt werden

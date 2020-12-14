@@ -1,0 +1,7 @@
+/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/Geant4/03-Geometry-Basics-B-Boolean-OPs-2020-11-12/DetectorPhys_T2/CMakeFiles/install/strip.dir
+/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/Geant4/03-Geometry-Basics-B-Boolean-OPs-2020-11-12/DetectorPhys_T2/CMakeFiles/edit_cache.dir
+/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/Geant4/03-Geometry-Basics-B-Boolean-OPs-2020-11-12/DetectorPhys_T2/CMakeFiles/DetectorPhys_T2.dir
+/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/Geant4/03-Geometry-Basics-B-Boolean-OPs-2020-11-12/DetectorPhys_T2/CMakeFiles/list_install_components.dir
+/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/Geant4/03-Geometry-Basics-B-Boolean-OPs-2020-11-12/DetectorPhys_T2/CMakeFiles/install/local.dir
+/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/Geant4/03-Geometry-Basics-B-Boolean-OPs-2020-11-12/DetectorPhys_T2/CMakeFiles/rebuild_cache.dir
+/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/Geant4/03-Geometry-Basics-B-Boolean-OPs-2020-11-12/DetectorPhys_T2/CMakeFiles/install.dir

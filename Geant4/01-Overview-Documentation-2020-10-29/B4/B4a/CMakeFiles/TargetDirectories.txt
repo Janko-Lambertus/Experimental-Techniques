@@ -1,0 +1,7 @@
+/.automount/home/home__home3/student/jl188824/Desktop/B4/B4a/CMakeFiles/install/strip.dir
+/.automount/home/home__home3/student/jl188824/Desktop/B4/B4a/CMakeFiles/edit_cache.dir
+/.automount/home/home__home3/student/jl188824/Desktop/B4/B4a/CMakeFiles/exampleB4a.dir
+/.automount/home/home__home3/student/jl188824/Desktop/B4/B4a/CMakeFiles/rebuild_cache.dir
+/.automount/home/home__home3/student/jl188824/Desktop/B4/B4a/CMakeFiles/list_install_components.dir
+/.automount/home/home__home3/student/jl188824/Desktop/B4/B4a/CMakeFiles/install/local.dir
+/.automount/home/home__home3/student/jl188824/Desktop/B4/B4a/CMakeFiles/install.dir

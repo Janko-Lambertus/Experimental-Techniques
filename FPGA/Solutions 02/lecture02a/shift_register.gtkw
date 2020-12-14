@@ -1,0 +1,55 @@
+[*]
+[*] GTKWave Analyzer v3.3.97 (w)1999-2018 BSI
+[*] Tue Nov  3 15:14:02 2020
+[*]
+[dumpfile] "/.automount/home/home__home2/institut_3b/jsteinmann/Public/WS2020/lecture02/shift_register.vcd"
+[dumpfile_mtime] "Tue Nov  3 15:13:08 2020"
+[dumpfile_size] 5610
+[savefile] "/.automount/home/home__home2/institut_3b/jsteinmann/Public/WS2020/lecture02/shift_register.gtkw"
+[timestart] 0
+[size] 1920 969
+[pos] -1 -1
+*-28.000113 630000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] lecture02_tb.
+[sst_width] 219
+[signals_width] 163
+[sst_expanded] 1
+[sst_vpaned_height] 287
+@28
+lecture02_tb.clk
+lecture02_tb.dir
+lecture02_tb.en
+@8028
+lecture02_tb.o_slv_shift[7:0]
+@20000
+-
+-
+-
+@800023
+lecture02_tb.uut.shift_reg[7:0]
+@29
+(0)lecture02_tb.uut.shift_reg[7:0]
+(1)lecture02_tb.uut.shift_reg[7:0]
+(2)lecture02_tb.uut.shift_reg[7:0]
+(3)lecture02_tb.uut.shift_reg[7:0]
+(4)lecture02_tb.uut.shift_reg[7:0]
+(5)lecture02_tb.uut.shift_reg[7:0]
+(6)lecture02_tb.uut.shift_reg[7:0]
+(7)lecture02_tb.uut.shift_reg[7:0]
+@1001201
+-group_end
+@800022
+lecture02_tb.uut.o_slv_shift[7:0]
+@28
+(0)lecture02_tb.uut.o_slv_shift[7:0]
+(1)lecture02_tb.uut.o_slv_shift[7:0]
+(2)lecture02_tb.uut.o_slv_shift[7:0]
+(3)lecture02_tb.uut.o_slv_shift[7:0]
+(4)lecture02_tb.uut.o_slv_shift[7:0]
+(5)lecture02_tb.uut.o_slv_shift[7:0]
+(6)lecture02_tb.uut.o_slv_shift[7:0]
+(7)lecture02_tb.uut.o_slv_shift[7:0]
+@1001200
+-group_end
+[pattern_trace] 1
+[pattern_trace] 0
