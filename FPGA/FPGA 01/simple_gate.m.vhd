@@ -24,7 +24,7 @@ begin
     begin
         -- compare to truth table
         if (i_sl_x = '1') then
-            o_sl_F <= '0';
+            o_sl_F <= '1';
         else
             o_sl_F <= '0';
         end if;
