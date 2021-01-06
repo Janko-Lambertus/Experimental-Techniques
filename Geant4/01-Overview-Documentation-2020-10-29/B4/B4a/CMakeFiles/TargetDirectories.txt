@@ -1,7 +1,0 @@
-/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/01-Overview-Documentation-2020-10-29/B4/B4a/CMakeFiles/install/strip.dir
-/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/01-Overview-Documentation-2020-10-29/B4/B4a/CMakeFiles/edit_cache.dir
-/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/01-Overview-Documentation-2020-10-29/B4/B4a/CMakeFiles/exampleB4a.dir
-/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/01-Overview-Documentation-2020-10-29/B4/B4a/CMakeFiles/rebuild_cache.dir
-/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/01-Overview-Documentation-2020-10-29/B4/B4a/CMakeFiles/list_install_components.dir
-/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/01-Overview-Documentation-2020-10-29/B4/B4a/CMakeFiles/install/local.dir
-/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/01-Overview-Documentation-2020-10-29/B4/B4a/CMakeFiles/install.dir

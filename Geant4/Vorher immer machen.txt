@@ -1,1 +1,0 @@
-Im Unterordner "source geant4.10.6.p02.sh" im Terminal ausführen.

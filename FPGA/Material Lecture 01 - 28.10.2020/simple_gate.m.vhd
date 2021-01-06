@@ -11,13 +11,7 @@ use ieee.std_logic_1164.all;
 entity lecture01 is
 port(	
 	i_sl_x : in  std_logic;
-	i_sl_y : in  std_logic;
-	o_sl_and: out std_logic;
-	o_sl_or: out std_logic;
-	o_sl_nand: out std_logic;
-	o_sl_nor: out std_logic;
-	o_sl_xor: out std_logic;
-	o_sl_not: out std_logic
+	o_sl_F: out std_logic
 );
 end lecture01;  
 
@@ -26,15 +20,14 @@ end lecture01;
 architecture behaviour of lecture01 is
 begin
 
-    process(i_sl_x, i_sl_y)
+    process(i_sl_x)
     begin
         -- compare to truth table
-        o_sl_and <= i_sl_x and i_sl_y;
-        o_sl_or <= i_sl_x or i_sl_y;
-        o_sl_nand <= i_sl_x nand i_sl_y;
-        o_sl_nor <= i_sl_x nor i_sl_y;
-        o_sl_xor <= i_sl_x xor i_sl_y;
-        o_sl_not <= not i_sl_x;
+        if (i_sl_x = '1') then
+            o_sl_F <= '1';
+        else
+            o_sl_F <= '0';
+        end if;
     end process;
 end behaviour;
 

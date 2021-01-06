@@ -1,3 +1,0 @@
-- Go to "https://jupyter.rwth-aachen.de/hub/login"
-- [DAPP] Data Analysis Class in Particle Physics
-- 
