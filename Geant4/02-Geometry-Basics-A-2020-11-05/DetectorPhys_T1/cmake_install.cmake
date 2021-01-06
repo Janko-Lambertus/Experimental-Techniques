@@ -1,4 +1,4 @@
-# Install script for directory: /.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1
+# Install script for directory: /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,7 +44,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/DetectorPhys_T1"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/DetectorPhys_T1")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/DetectorPhys_T1")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/DetectorPhys_T1" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/DetectorPhys_T1")
     file(RPATH_CHANGE
@@ -65,5 +65,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

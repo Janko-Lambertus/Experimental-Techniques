@@ -54,10 +54,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /.automount/home/home__home3/student/jl188824/Desktop/B4/B4a
+CMAKE_SOURCE_DIR = /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/01-Overview-Documentation-2020-10-29/B4/B4a
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /.automount/home/home__home3/student/jl188824/Desktop/B4/B4a
+CMAKE_BINARY_DIR = /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/01-Overview-Documentation-2020-10-29/B4/B4a
 
 #=============================================================================
 # Target rules for target CMakeFiles/exampleB4a.dir
@@ -66,7 +66,7 @@ CMAKE_BINARY_DIR = /.automount/home/home__home3/student/jl188824/Desktop/B4/B4a
 CMakeFiles/exampleB4a.dir/all:
 	$(MAKE) -f CMakeFiles/exampleB4a.dir/build.make CMakeFiles/exampleB4a.dir/depend
 	$(MAKE) -f CMakeFiles/exampleB4a.dir/build.make CMakeFiles/exampleB4a.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/.automount/home/home__home3/student/jl188824/Desktop/B4/B4a/CMakeFiles --progress-num=1,2,3,4,5,6,7,8 "Built target exampleB4a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/01-Overview-Documentation-2020-10-29/B4/B4a/CMakeFiles --progress-num=1,2,3,4,5,6,7,8 "Built target exampleB4a"
 .PHONY : CMakeFiles/exampleB4a.dir/all
 
 # Include target in all.
@@ -76,9 +76,9 @@ all: CMakeFiles/exampleB4a.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exampleB4a.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /.automount/home/home__home3/student/jl188824/Desktop/B4/B4a/CMakeFiles 8
+	$(CMAKE_COMMAND) -E cmake_progress_start /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/01-Overview-Documentation-2020-10-29/B4/B4a/CMakeFiles 8
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/exampleB4a.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /.automount/home/home__home3/student/jl188824/Desktop/B4/B4a/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/01-Overview-Documentation-2020-10-29/B4/B4a/CMakeFiles 0
 .PHONY : CMakeFiles/exampleB4a.dir/rule
 
 # Convenience name for target.

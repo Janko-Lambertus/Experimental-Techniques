@@ -10,7 +10,7 @@ The output was:
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
 
-The C compiler identification is GNU, found in "/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/3.10.1/CompilerIdC/a.out"
+The C compiler identification is GNU, found in "/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/3.10.1/CompilerIdC/a.out"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler: /cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/g++ 
@@ -23,33 +23,33 @@ The output was:
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
 
-The CXX compiler identification is GNU, found in "/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/3.10.1/CompilerIdCXX/a.out"
+The CXX compiler identification is GNU, found in "/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/3.10.1/CompilerIdCXX/a.out"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: /.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp
+Change Dir: /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_1801a/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_1801a.dir/build.make CMakeFiles/cmTC_1801a.dir/build
-gmake[1]: Entering directory `/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_1801a.dir/testCCompiler.c.o
-/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc    -o CMakeFiles/cmTC_1801a.dir/testCCompiler.c.o   -c /.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp/testCCompiler.c
-Linking C executable cmTC_1801a
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1801a.dir/link.txt --verbose=1
-/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc      -rdynamic CMakeFiles/cmTC_1801a.dir/testCCompiler.c.o  -o cmTC_1801a 
-gmake[1]: Leaving directory `/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_c9e51/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_c9e51.dir/build.make CMakeFiles/cmTC_c9e51.dir/build
+gmake[1]: Entering directory `/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c9e51.dir/testCCompiler.c.o
+/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc    -o CMakeFiles/cmTC_c9e51.dir/testCCompiler.c.o   -c /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_c9e51
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c9e51.dir/link.txt --verbose=1
+/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc      -rdynamic CMakeFiles/cmTC_c9e51.dir/testCCompiler.c.o  -o cmTC_c9e51 
+gmake[1]: Leaving directory `/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: /.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp
+Change Dir: /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_f3a84/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_f3a84.dir/build.make CMakeFiles/cmTC_f3a84.dir/build
-gmake[1]: Entering directory `/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_f3a84.dir/CMakeCCompilerABI.c.o
-/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc    -o CMakeFiles/cmTC_f3a84.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake/Modules/CMakeCCompilerABI.c
-Linking C executable cmTC_f3a84
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f3a84.dir/link.txt --verbose=1
-/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc     -v -rdynamic CMakeFiles/cmTC_f3a84.dir/CMakeCCompilerABI.c.o  -o cmTC_f3a84 
+Run Build Command:"/usr/bin/gmake" "cmTC_cbd16/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_cbd16.dir/build.make CMakeFiles/cmTC_cbd16.dir/build
+gmake[1]: Entering directory `/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_cbd16.dir/CMakeCCompilerABI.c.o
+/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc    -o CMakeFiles/cmTC_cbd16.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_cbd16
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cbd16.dir/link.txt --verbose=1
+/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc     -v -rdynamic CMakeFiles/cmTC_cbd16.dir/CMakeCCompilerABI.c.o  -o cmTC_cbd16 
 Using built-in specs.
 COLLECT_GCC=/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc
 COLLECT_LTO_WRAPPER=/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/lto-wrapper
@@ -59,24 +59,24 @@ Thread model: posix
 gcc version 8.3.0 (GCC) 
 COMPILER_PATH=/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/:/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/:/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/
 LIBRARY_PATH=/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/:/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/:/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_f3a84' '-mtune=generic' '-march=x86-64'
- /cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/collect2 -plugin /cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/liblto_plugin.so -plugin-opt=/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/lto-wrapper -plugin-opt=-fresolution=/tmp/ccJoWhOD.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --eh-frame-hdr -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_f3a84 /lib/../lib64/crt1.o /lib/../lib64/crti.o /cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/crtbegin.o -L/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0 -L/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc -L/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/../../.. CMakeFiles/cmTC_f3a84.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/crtend.o /lib/../lib64/crtn.o
-COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_f3a84' '-mtune=generic' '-march=x86-64'
-gmake[1]: Leaving directory `/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_cbd16' '-mtune=generic' '-march=x86-64'
+ /cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/collect2 -plugin /cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/liblto_plugin.so -plugin-opt=/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/lto-wrapper -plugin-opt=-fresolution=/tmp/ccz7cpSD.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --eh-frame-hdr -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_cbd16 /lib/../lib64/crt1.o /lib/../lib64/crti.o /cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/crtbegin.o -L/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0 -L/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc -L/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/../../.. CMakeFiles/cmTC_cbd16.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/crtend.o /lib/../lib64/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_cbd16' '-mtune=generic' '-march=x86-64'
+gmake[1]: Leaving directory `/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
 
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/gmake" "cmTC_f3a84/fast"]
-  ignore line: [/usr/bin/gmake -f CMakeFiles/cmTC_f3a84.dir/build.make CMakeFiles/cmTC_f3a84.dir/build]
-  ignore line: [gmake[1]: Entering directory `/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp']
-  ignore line: [Building C object CMakeFiles/cmTC_f3a84.dir/CMakeCCompilerABI.c.o]
-  ignore line: [/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc    -o CMakeFiles/cmTC_f3a84.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake/Modules/CMakeCCompilerABI.c]
-  ignore line: [Linking C executable cmTC_f3a84]
-  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f3a84.dir/link.txt --verbose=1]
-  ignore line: [/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc     -v -rdynamic CMakeFiles/cmTC_f3a84.dir/CMakeCCompilerABI.c.o  -o cmTC_f3a84 ]
+  ignore line: [Run Build Command:"/usr/bin/gmake" "cmTC_cbd16/fast"]
+  ignore line: [/usr/bin/gmake -f CMakeFiles/cmTC_cbd16.dir/build.make CMakeFiles/cmTC_cbd16.dir/build]
+  ignore line: [gmake[1]: Entering directory `/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_cbd16.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc    -o CMakeFiles/cmTC_cbd16.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTC_cbd16]
+  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cbd16.dir/link.txt --verbose=1]
+  ignore line: [/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc     -v -rdynamic CMakeFiles/cmTC_cbd16.dir/CMakeCCompilerABI.c.o  -o cmTC_cbd16 ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc]
   ignore line: [COLLECT_LTO_WRAPPER=/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/lto-wrapper]
@@ -86,13 +86,13 @@ Parsed C implicit link information from above output:
   ignore line: [gcc version 8.3.0 (GCC) ]
   ignore line: [COMPILER_PATH=/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/:/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/:/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/]
   ignore line: [LIBRARY_PATH=/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/:/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/:/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_f3a84' '-mtune=generic' '-march=x86-64']
-  link line: [ /cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/collect2 -plugin /cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/liblto_plugin.so -plugin-opt=/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/lto-wrapper -plugin-opt=-fresolution=/tmp/ccJoWhOD.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --eh-frame-hdr -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_f3a84 /lib/../lib64/crt1.o /lib/../lib64/crti.o /cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/crtbegin.o -L/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0 -L/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc -L/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/../../.. CMakeFiles/cmTC_f3a84.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/crtend.o /lib/../lib64/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_cbd16' '-mtune=generic' '-march=x86-64']
+  link line: [ /cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/collect2 -plugin /cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/liblto_plugin.so -plugin-opt=/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/lto-wrapper -plugin-opt=-fresolution=/tmp/ccz7cpSD.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --eh-frame-hdr -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_cbd16 /lib/../lib64/crt1.o /lib/../lib64/crti.o /cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/crtbegin.o -L/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0 -L/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc -L/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/../../.. CMakeFiles/cmTC_cbd16.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/crtend.o /lib/../lib64/crtn.o]
     arg [/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/ccJoWhOD.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccz7cpSD.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -105,7 +105,7 @@ Parsed C implicit link information from above output:
     arg [-dynamic-linker] ==> ignore
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_f3a84] ==> ignore
+    arg [cmTC_cbd16] ==> ignore
     arg [/lib/../lib64/crt1.o] ==> ignore
     arg [/lib/../lib64/crti.o] ==> ignore
     arg [/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/crtbegin.o] ==> ignore
@@ -115,7 +115,7 @@ Parsed C implicit link information from above output:
     arg [-L/lib/../lib64] ==> dir [/lib/../lib64]
     arg [-L/usr/lib/../lib64] ==> dir [/usr/lib/../lib64]
     arg [-L/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/../../..] ==> dir [/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/../../..]
-    arg [CMakeFiles/cmTC_f3a84.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [CMakeFiles/cmTC_cbd16.dir/CMakeCCompilerABI.c.o] ==> ignore
     arg [-lgcc] ==> lib [gcc]
     arg [--as-needed] ==> ignore
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -141,17 +141,17 @@ Parsed C implicit link information from above output:
 
 
 Detecting C [-std=c11] compiler features compiled with the following output:
-Change Dir: /.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp
+Change Dir: /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_207d7/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_207d7.dir/build.make CMakeFiles/cmTC_207d7.dir/build
-gmake[1]: Entering directory `/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_207d7.dir/feature_tests.c.o
-/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc   -std=c11 -o CMakeFiles/cmTC_207d7.dir/feature_tests.c.o   -c /.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/feature_tests.c
-Linking C executable cmTC_207d7
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_207d7.dir/link.txt --verbose=1
-/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc      -rdynamic CMakeFiles/cmTC_207d7.dir/feature_tests.c.o  -o cmTC_207d7 
-gmake[1]: Leaving directory `/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_e353a/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_e353a.dir/build.make CMakeFiles/cmTC_e353a.dir/build
+gmake[1]: Entering directory `/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e353a.dir/feature_tests.c.o
+/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc   -std=c11 -o CMakeFiles/cmTC_e353a.dir/feature_tests.c.o   -c /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/feature_tests.c
+Linking C executable cmTC_e353a
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e353a.dir/link.txt --verbose=1
+/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc      -rdynamic CMakeFiles/cmTC_e353a.dir/feature_tests.c.o  -o cmTC_e353a 
+gmake[1]: Leaving directory `/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -161,17 +161,17 @@ gmake[1]: Leaving directory `/.automount/home/home__home3/student/jl188824/Deskt
 
 
 Detecting C [-std=c99] compiler features compiled with the following output:
-Change Dir: /.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp
+Change Dir: /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_df2fe/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_df2fe.dir/build.make CMakeFiles/cmTC_df2fe.dir/build
-gmake[1]: Entering directory `/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_df2fe.dir/feature_tests.c.o
-/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc   -std=c99 -o CMakeFiles/cmTC_df2fe.dir/feature_tests.c.o   -c /.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/feature_tests.c
-Linking C executable cmTC_df2fe
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_df2fe.dir/link.txt --verbose=1
-/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc      -rdynamic CMakeFiles/cmTC_df2fe.dir/feature_tests.c.o  -o cmTC_df2fe 
-gmake[1]: Leaving directory `/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_c51e4/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_c51e4.dir/build.make CMakeFiles/cmTC_c51e4.dir/build
+gmake[1]: Entering directory `/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c51e4.dir/feature_tests.c.o
+/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc   -std=c99 -o CMakeFiles/cmTC_c51e4.dir/feature_tests.c.o   -c /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/feature_tests.c
+Linking C executable cmTC_c51e4
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c51e4.dir/link.txt --verbose=1
+/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc      -rdynamic CMakeFiles/cmTC_c51e4.dir/feature_tests.c.o  -o cmTC_c51e4 
+gmake[1]: Leaving directory `/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -181,17 +181,17 @@ gmake[1]: Leaving directory `/.automount/home/home__home3/student/jl188824/Deskt
 
 
 Detecting C [-std=c90] compiler features compiled with the following output:
-Change Dir: /.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp
+Change Dir: /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_7bace/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_7bace.dir/build.make CMakeFiles/cmTC_7bace.dir/build
-gmake[1]: Entering directory `/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_7bace.dir/feature_tests.c.o
-/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc   -std=c90 -o CMakeFiles/cmTC_7bace.dir/feature_tests.c.o   -c /.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/feature_tests.c
-Linking C executable cmTC_7bace
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7bace.dir/link.txt --verbose=1
-/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc      -rdynamic CMakeFiles/cmTC_7bace.dir/feature_tests.c.o  -o cmTC_7bace 
-gmake[1]: Leaving directory `/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_8d64f/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_8d64f.dir/build.make CMakeFiles/cmTC_8d64f.dir/build
+gmake[1]: Entering directory `/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8d64f.dir/feature_tests.c.o
+/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc   -std=c90 -o CMakeFiles/cmTC_8d64f.dir/feature_tests.c.o   -c /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/feature_tests.c
+Linking C executable cmTC_8d64f
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8d64f.dir/link.txt --verbose=1
+/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc      -rdynamic CMakeFiles/cmTC_8d64f.dir/feature_tests.c.o  -o cmTC_8d64f 
+gmake[1]: Leaving directory `/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -199,30 +199,30 @@ gmake[1]: Leaving directory `/.automount/home/home__home3/student/jl188824/Deskt
     Feature record: C_FEATURE:0c_static_assert
     Feature record: C_FEATURE:0c_variadic_macros
 Determining if the CXX compiler works passed with the following output:
-Change Dir: /.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp
+Change Dir: /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_f5a1d/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_f5a1d.dir/build.make CMakeFiles/cmTC_f5a1d.dir/build
-gmake[1]: Entering directory `/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_f5a1d.dir/testCXXCompiler.cxx.o
-/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/g++     -o CMakeFiles/cmTC_f5a1d.dir/testCXXCompiler.cxx.o -c /.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
-Linking CXX executable cmTC_f5a1d
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f5a1d.dir/link.txt --verbose=1
-/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/g++       -rdynamic CMakeFiles/cmTC_f5a1d.dir/testCXXCompiler.cxx.o  -o cmTC_f5a1d 
-gmake[1]: Leaving directory `/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_adf21/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_adf21.dir/build.make CMakeFiles/cmTC_adf21.dir/build
+gmake[1]: Entering directory `/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_adf21.dir/testCXXCompiler.cxx.o
+/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/g++     -o CMakeFiles/cmTC_adf21.dir/testCXXCompiler.cxx.o -c /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_adf21
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_adf21.dir/link.txt --verbose=1
+/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/g++       -rdynamic CMakeFiles/cmTC_adf21.dir/testCXXCompiler.cxx.o  -o cmTC_adf21 
+gmake[1]: Leaving directory `/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: /.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp
+Change Dir: /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_96164/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_96164.dir/build.make CMakeFiles/cmTC_96164.dir/build
-gmake[1]: Entering directory `/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_96164.dir/CMakeCXXCompilerABI.cpp.o
-/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/g++     -o CMakeFiles/cmTC_96164.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp
-Linking CXX executable cmTC_96164
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_96164.dir/link.txt --verbose=1
-/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/g++      -v -rdynamic CMakeFiles/cmTC_96164.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_96164 
+Run Build Command:"/usr/bin/gmake" "cmTC_a3f94/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_a3f94.dir/build.make CMakeFiles/cmTC_a3f94.dir/build
+gmake[1]: Entering directory `/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_a3f94.dir/CMakeCXXCompilerABI.cpp.o
+/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/g++     -o CMakeFiles/cmTC_a3f94.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_a3f94
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a3f94.dir/link.txt --verbose=1
+/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/g++      -v -rdynamic CMakeFiles/cmTC_a3f94.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_a3f94 
 Using built-in specs.
 COLLECT_GCC=/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/g++
 COLLECT_LTO_WRAPPER=/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/lto-wrapper
@@ -232,24 +232,24 @@ Thread model: posix
 gcc version 8.3.0 (GCC) 
 COMPILER_PATH=/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/:/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/:/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/
 LIBRARY_PATH=/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/:/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/:/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_96164' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
- /cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/collect2 -plugin /cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/liblto_plugin.so -plugin-opt=/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/lto-wrapper -plugin-opt=-fresolution=/tmp/ccxXtiTB.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --eh-frame-hdr -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_96164 /lib/../lib64/crt1.o /lib/../lib64/crti.o /cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/crtbegin.o -L/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0 -L/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc -L/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/../../.. CMakeFiles/cmTC_96164.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/crtend.o /lib/../lib64/crtn.o
-COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_96164' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
-gmake[1]: Leaving directory `/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_a3f94' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ /cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/collect2 -plugin /cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/liblto_plugin.so -plugin-opt=/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/lto-wrapper -plugin-opt=-fresolution=/tmp/ccJJmsfc.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --eh-frame-hdr -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_a3f94 /lib/../lib64/crt1.o /lib/../lib64/crti.o /cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/crtbegin.o -L/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0 -L/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc -L/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/../../.. CMakeFiles/cmTC_a3f94.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/crtend.o /lib/../lib64/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_a3f94' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+gmake[1]: Leaving directory `/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
 
 
 Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/gmake" "cmTC_96164/fast"]
-  ignore line: [/usr/bin/gmake -f CMakeFiles/cmTC_96164.dir/build.make CMakeFiles/cmTC_96164.dir/build]
-  ignore line: [gmake[1]: Entering directory `/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp']
-  ignore line: [Building CXX object CMakeFiles/cmTC_96164.dir/CMakeCXXCompilerABI.cpp.o]
-  ignore line: [/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/g++     -o CMakeFiles/cmTC_96164.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
-  ignore line: [Linking CXX executable cmTC_96164]
-  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_96164.dir/link.txt --verbose=1]
-  ignore line: [/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/g++      -v -rdynamic CMakeFiles/cmTC_96164.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_96164 ]
+  ignore line: [Run Build Command:"/usr/bin/gmake" "cmTC_a3f94/fast"]
+  ignore line: [/usr/bin/gmake -f CMakeFiles/cmTC_a3f94.dir/build.make CMakeFiles/cmTC_a3f94.dir/build]
+  ignore line: [gmake[1]: Entering directory `/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp']
+  ignore line: [Building CXX object CMakeFiles/cmTC_a3f94.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/g++     -o CMakeFiles/cmTC_a3f94.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Linking CXX executable cmTC_a3f94]
+  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a3f94.dir/link.txt --verbose=1]
+  ignore line: [/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/g++      -v -rdynamic CMakeFiles/cmTC_a3f94.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_a3f94 ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/g++]
   ignore line: [COLLECT_LTO_WRAPPER=/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/lto-wrapper]
@@ -259,13 +259,13 @@ Parsed CXX implicit link information from above output:
   ignore line: [gcc version 8.3.0 (GCC) ]
   ignore line: [COMPILER_PATH=/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/:/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/:/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/]
   ignore line: [LIBRARY_PATH=/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/:/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/:/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_96164' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
-  link line: [ /cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/collect2 -plugin /cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/liblto_plugin.so -plugin-opt=/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/lto-wrapper -plugin-opt=-fresolution=/tmp/ccxXtiTB.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --eh-frame-hdr -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_96164 /lib/../lib64/crt1.o /lib/../lib64/crti.o /cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/crtbegin.o -L/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0 -L/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc -L/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/../../.. CMakeFiles/cmTC_96164.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/crtend.o /lib/../lib64/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_a3f94' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  link line: [ /cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/collect2 -plugin /cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/liblto_plugin.so -plugin-opt=/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/lto-wrapper -plugin-opt=-fresolution=/tmp/ccJJmsfc.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --eh-frame-hdr -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_a3f94 /lib/../lib64/crt1.o /lib/../lib64/crti.o /cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/crtbegin.o -L/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0 -L/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc -L/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/../../.. CMakeFiles/cmTC_a3f94.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/crtend.o /lib/../lib64/crtn.o]
     arg [/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../libexec/gcc/x86_64-pc-linux-gnu/8.3.0/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/ccxXtiTB.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccJJmsfc.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -278,7 +278,7 @@ Parsed CXX implicit link information from above output:
     arg [-dynamic-linker] ==> ignore
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_96164] ==> ignore
+    arg [cmTC_a3f94] ==> ignore
     arg [/lib/../lib64/crt1.o] ==> ignore
     arg [/lib/../lib64/crti.o] ==> ignore
     arg [/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/crtbegin.o] ==> ignore
@@ -288,7 +288,7 @@ Parsed CXX implicit link information from above output:
     arg [-L/lib/../lib64] ==> dir [/lib/../lib64]
     arg [-L/usr/lib/../lib64] ==> dir [/usr/lib/../lib64]
     arg [-L/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/../../..] ==> dir [/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/../lib/gcc/x86_64-pc-linux-gnu/8.3.0/../../..]
-    arg [CMakeFiles/cmTC_96164.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [CMakeFiles/cmTC_a3f94.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
     arg [-lstdc++] ==> lib [stdc++]
     arg [-lm] ==> lib [m]
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -312,17 +312,17 @@ Parsed CXX implicit link information from above output:
 
 
 Detecting CXX [-std=c++1z] compiler features compiled with the following output:
-Change Dir: /.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp
+Change Dir: /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_a7612/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_a7612.dir/build.make CMakeFiles/cmTC_a7612.dir/build
-gmake[1]: Entering directory `/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_a7612.dir/feature_tests.cxx.o
-/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/g++    -std=c++1z -o CMakeFiles/cmTC_a7612.dir/feature_tests.cxx.o -c /.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_a7612
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a7612.dir/link.txt --verbose=1
-/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/g++       -rdynamic CMakeFiles/cmTC_a7612.dir/feature_tests.cxx.o  -o cmTC_a7612 
-gmake[1]: Leaving directory `/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_0a0ca/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_0a0ca.dir/build.make CMakeFiles/cmTC_0a0ca.dir/build
+gmake[1]: Entering directory `/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_0a0ca.dir/feature_tests.cxx.o
+/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/g++    -std=c++1z -o CMakeFiles/cmTC_0a0ca.dir/feature_tests.cxx.o -c /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_0a0ca
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0a0ca.dir/link.txt --verbose=1
+/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/g++       -rdynamic CMakeFiles/cmTC_0a0ca.dir/feature_tests.cxx.o  -o cmTC_0a0ca 
+gmake[1]: Leaving directory `/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -385,17 +385,17 @@ gmake[1]: Leaving directory `/.automount/home/home__home3/student/jl188824/Deskt
 
 
 Detecting CXX [-std=c++14] compiler features compiled with the following output:
-Change Dir: /.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp
+Change Dir: /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_0c6f4/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_0c6f4.dir/build.make CMakeFiles/cmTC_0c6f4.dir/build
-gmake[1]: Entering directory `/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_0c6f4.dir/feature_tests.cxx.o
-/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/g++    -std=c++14 -o CMakeFiles/cmTC_0c6f4.dir/feature_tests.cxx.o -c /.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_0c6f4
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0c6f4.dir/link.txt --verbose=1
-/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/g++       -rdynamic CMakeFiles/cmTC_0c6f4.dir/feature_tests.cxx.o  -o cmTC_0c6f4 
-gmake[1]: Leaving directory `/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_23d2e/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_23d2e.dir/build.make CMakeFiles/cmTC_23d2e.dir/build
+gmake[1]: Entering directory `/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_23d2e.dir/feature_tests.cxx.o
+/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/g++    -std=c++14 -o CMakeFiles/cmTC_23d2e.dir/feature_tests.cxx.o -c /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_23d2e
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_23d2e.dir/link.txt --verbose=1
+/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/g++       -rdynamic CMakeFiles/cmTC_23d2e.dir/feature_tests.cxx.o  -o cmTC_23d2e 
+gmake[1]: Leaving directory `/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -458,17 +458,17 @@ gmake[1]: Leaving directory `/.automount/home/home__home3/student/jl188824/Deskt
 
 
 Detecting CXX [-std=c++11] compiler features compiled with the following output:
-Change Dir: /.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp
+Change Dir: /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_87245/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_87245.dir/build.make CMakeFiles/cmTC_87245.dir/build
-gmake[1]: Entering directory `/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_87245.dir/feature_tests.cxx.o
-/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/g++    -std=c++11 -o CMakeFiles/cmTC_87245.dir/feature_tests.cxx.o -c /.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_87245
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_87245.dir/link.txt --verbose=1
-/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/g++       -rdynamic CMakeFiles/cmTC_87245.dir/feature_tests.cxx.o  -o cmTC_87245 
-gmake[1]: Leaving directory `/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_4df6a/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_4df6a.dir/build.make CMakeFiles/cmTC_4df6a.dir/build
+gmake[1]: Entering directory `/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_4df6a.dir/feature_tests.cxx.o
+/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/g++    -std=c++11 -o CMakeFiles/cmTC_4df6a.dir/feature_tests.cxx.o -c /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_4df6a
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4df6a.dir/link.txt --verbose=1
+/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/g++       -rdynamic CMakeFiles/cmTC_4df6a.dir/feature_tests.cxx.o  -o cmTC_4df6a 
+gmake[1]: Leaving directory `/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
@@ -531,17 +531,17 @@ gmake[1]: Leaving directory `/.automount/home/home__home3/student/jl188824/Deskt
 
 
 Detecting CXX [-std=c++98] compiler features compiled with the following output:
-Change Dir: /.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp
+Change Dir: /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_6986d/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_6986d.dir/build.make CMakeFiles/cmTC_6986d.dir/build
-gmake[1]: Entering directory `/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_6986d.dir/feature_tests.cxx.o
-/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/g++    -std=c++98 -o CMakeFiles/cmTC_6986d.dir/feature_tests.cxx.o -c /.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_6986d
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6986d.dir/link.txt --verbose=1
-/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/g++       -rdynamic CMakeFiles/cmTC_6986d.dir/feature_tests.cxx.o  -o cmTC_6986d 
-gmake[1]: Leaving directory `/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_a8e42/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_a8e42.dir/build.make CMakeFiles/cmTC_a8e42.dir/build
+gmake[1]: Entering directory `/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_a8e42.dir/feature_tests.cxx.o
+/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/g++    -std=c++98 -o CMakeFiles/cmTC_a8e42.dir/feature_tests.cxx.o -c /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_a8e42
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a8e42.dir/link.txt --verbose=1
+/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/g++       -rdynamic CMakeFiles/cmTC_a8e42.dir/feature_tests.cxx.o  -o cmTC_a8e42 
+gmake[1]: Leaving directory `/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
@@ -602,86 +602,86 @@ gmake[1]: Leaving directory `/.automount/home/home__home3/student/jl188824/Deskt
     Feature record: CXX_FEATURE:0cxx_variadic_macros
     Feature record: CXX_FEATURE:0cxx_variadic_templates
 Determining if the function XOpenDisplay exists in the /usr/lib64/libX11.so;/usr/lib64/libXext.so passed with the following output:
-Change Dir: /.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp
+Change Dir: /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_1832d/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_1832d.dir/build.make CMakeFiles/cmTC_1832d.dir/build
-gmake[1]: Entering directory `/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_1832d.dir/CheckFunctionExists.c.o
-/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc   -DCHECK_FUNCTION_EXISTS=XOpenDisplay   -o CMakeFiles/cmTC_1832d.dir/CheckFunctionExists.c.o   -c /usr/share/cmake/Modules/CheckFunctionExists.c
-Linking C executable cmTC_1832d
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1832d.dir/link.txt --verbose=1
-/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc  -DCHECK_FUNCTION_EXISTS=XOpenDisplay    CMakeFiles/cmTC_1832d.dir/CheckFunctionExists.c.o  -o cmTC_1832d /usr/lib64/libX11.so /usr/lib64/libXext.so 
-gmake[1]: Leaving directory `/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_62cd9/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_62cd9.dir/build.make CMakeFiles/cmTC_62cd9.dir/build
+gmake[1]: Entering directory `/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_62cd9.dir/CheckFunctionExists.c.o
+/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc   -DCHECK_FUNCTION_EXISTS=XOpenDisplay   -o CMakeFiles/cmTC_62cd9.dir/CheckFunctionExists.c.o   -c /usr/share/cmake/Modules/CheckFunctionExists.c
+Linking C executable cmTC_62cd9
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_62cd9.dir/link.txt --verbose=1
+/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc  -DCHECK_FUNCTION_EXISTS=XOpenDisplay    CMakeFiles/cmTC_62cd9.dir/CheckFunctionExists.c.o  -o cmTC_62cd9 /usr/lib64/libX11.so /usr/lib64/libXext.so 
+gmake[1]: Leaving directory `/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
 
 
 Determining if the function gethostbyname exists passed with the following output:
-Change Dir: /.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp
+Change Dir: /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_67ddf/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_67ddf.dir/build.make CMakeFiles/cmTC_67ddf.dir/build
-gmake[1]: Entering directory `/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_67ddf.dir/CheckFunctionExists.c.o
-/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc   -DCHECK_FUNCTION_EXISTS=gethostbyname   -o CMakeFiles/cmTC_67ddf.dir/CheckFunctionExists.c.o   -c /usr/share/cmake/Modules/CheckFunctionExists.c
-Linking C executable cmTC_67ddf
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_67ddf.dir/link.txt --verbose=1
-/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc  -DCHECK_FUNCTION_EXISTS=gethostbyname    CMakeFiles/cmTC_67ddf.dir/CheckFunctionExists.c.o  -o cmTC_67ddf 
-gmake[1]: Leaving directory `/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_921f5/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_921f5.dir/build.make CMakeFiles/cmTC_921f5.dir/build
+gmake[1]: Entering directory `/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_921f5.dir/CheckFunctionExists.c.o
+/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc   -DCHECK_FUNCTION_EXISTS=gethostbyname   -o CMakeFiles/cmTC_921f5.dir/CheckFunctionExists.c.o   -c /usr/share/cmake/Modules/CheckFunctionExists.c
+Linking C executable cmTC_921f5
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_921f5.dir/link.txt --verbose=1
+/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc  -DCHECK_FUNCTION_EXISTS=gethostbyname    CMakeFiles/cmTC_921f5.dir/CheckFunctionExists.c.o  -o cmTC_921f5 
+gmake[1]: Leaving directory `/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
 
 
 Determining if the function connect exists passed with the following output:
-Change Dir: /.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp
+Change Dir: /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_06710/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_06710.dir/build.make CMakeFiles/cmTC_06710.dir/build
-gmake[1]: Entering directory `/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_06710.dir/CheckFunctionExists.c.o
-/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc   -DCHECK_FUNCTION_EXISTS=connect   -o CMakeFiles/cmTC_06710.dir/CheckFunctionExists.c.o   -c /usr/share/cmake/Modules/CheckFunctionExists.c
-Linking C executable cmTC_06710
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_06710.dir/link.txt --verbose=1
-/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc  -DCHECK_FUNCTION_EXISTS=connect    CMakeFiles/cmTC_06710.dir/CheckFunctionExists.c.o  -o cmTC_06710 
-gmake[1]: Leaving directory `/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_42220/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_42220.dir/build.make CMakeFiles/cmTC_42220.dir/build
+gmake[1]: Entering directory `/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_42220.dir/CheckFunctionExists.c.o
+/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc   -DCHECK_FUNCTION_EXISTS=connect   -o CMakeFiles/cmTC_42220.dir/CheckFunctionExists.c.o   -c /usr/share/cmake/Modules/CheckFunctionExists.c
+Linking C executable cmTC_42220
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_42220.dir/link.txt --verbose=1
+/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc  -DCHECK_FUNCTION_EXISTS=connect    CMakeFiles/cmTC_42220.dir/CheckFunctionExists.c.o  -o cmTC_42220 
+gmake[1]: Leaving directory `/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
 
 
 Determining if the function remove exists passed with the following output:
-Change Dir: /.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp
+Change Dir: /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_bf687/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_bf687.dir/build.make CMakeFiles/cmTC_bf687.dir/build
-gmake[1]: Entering directory `/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_bf687.dir/CheckFunctionExists.c.o
-/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc   -DCHECK_FUNCTION_EXISTS=remove   -o CMakeFiles/cmTC_bf687.dir/CheckFunctionExists.c.o   -c /usr/share/cmake/Modules/CheckFunctionExists.c
-Linking C executable cmTC_bf687
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_bf687.dir/link.txt --verbose=1
-/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc  -DCHECK_FUNCTION_EXISTS=remove    CMakeFiles/cmTC_bf687.dir/CheckFunctionExists.c.o  -o cmTC_bf687 
-gmake[1]: Leaving directory `/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_80f70/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_80f70.dir/build.make CMakeFiles/cmTC_80f70.dir/build
+gmake[1]: Entering directory `/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_80f70.dir/CheckFunctionExists.c.o
+/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc   -DCHECK_FUNCTION_EXISTS=remove   -o CMakeFiles/cmTC_80f70.dir/CheckFunctionExists.c.o   -c /usr/share/cmake/Modules/CheckFunctionExists.c
+Linking C executable cmTC_80f70
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_80f70.dir/link.txt --verbose=1
+/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc  -DCHECK_FUNCTION_EXISTS=remove    CMakeFiles/cmTC_80f70.dir/CheckFunctionExists.c.o  -o cmTC_80f70 
+gmake[1]: Leaving directory `/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
 
 
 Determining if the function shmat exists passed with the following output:
-Change Dir: /.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp
+Change Dir: /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_69335/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_69335.dir/build.make CMakeFiles/cmTC_69335.dir/build
-gmake[1]: Entering directory `/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_69335.dir/CheckFunctionExists.c.o
-/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc   -DCHECK_FUNCTION_EXISTS=shmat   -o CMakeFiles/cmTC_69335.dir/CheckFunctionExists.c.o   -c /usr/share/cmake/Modules/CheckFunctionExists.c
-Linking C executable cmTC_69335
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_69335.dir/link.txt --verbose=1
-/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc  -DCHECK_FUNCTION_EXISTS=shmat    CMakeFiles/cmTC_69335.dir/CheckFunctionExists.c.o  -o cmTC_69335 
-gmake[1]: Leaving directory `/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_31246/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_31246.dir/build.make CMakeFiles/cmTC_31246.dir/build
+gmake[1]: Entering directory `/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_31246.dir/CheckFunctionExists.c.o
+/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc   -DCHECK_FUNCTION_EXISTS=shmat   -o CMakeFiles/cmTC_31246.dir/CheckFunctionExists.c.o   -c /usr/share/cmake/Modules/CheckFunctionExists.c
+Linking C executable cmTC_31246
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_31246.dir/link.txt --verbose=1
+/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc  -DCHECK_FUNCTION_EXISTS=shmat    CMakeFiles/cmTC_31246.dir/CheckFunctionExists.c.o  -o cmTC_31246 
+gmake[1]: Leaving directory `/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
 
 
 Determining if the function IceConnectionNumber exists in the ICE passed with the following output:
-Change Dir: /.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp
+Change Dir: /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/gmake" "cmTC_65ea1/fast"
-/usr/bin/gmake -f CMakeFiles/cmTC_65ea1.dir/build.make CMakeFiles/cmTC_65ea1.dir/build
-gmake[1]: Entering directory `/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_65ea1.dir/CheckFunctionExists.c.o
-/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc   -DCHECK_FUNCTION_EXISTS=IceConnectionNumber   -o CMakeFiles/cmTC_65ea1.dir/CheckFunctionExists.c.o   -c /usr/share/cmake/Modules/CheckFunctionExists.c
-Linking C executable cmTC_65ea1
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_65ea1.dir/link.txt --verbose=1
-/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc  -DCHECK_FUNCTION_EXISTS=IceConnectionNumber    CMakeFiles/cmTC_65ea1.dir/CheckFunctionExists.c.o  -o cmTC_65ea1 -lICE 
-gmake[1]: Leaving directory `/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/gmake" "cmTC_5b5da/fast"
+/usr/bin/gmake -f CMakeFiles/cmTC_5b5da.dir/build.make CMakeFiles/cmTC_5b5da.dir/build
+gmake[1]: Entering directory `/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_5b5da.dir/CheckFunctionExists.c.o
+/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc   -DCHECK_FUNCTION_EXISTS=IceConnectionNumber   -o CMakeFiles/cmTC_5b5da.dir/CheckFunctionExists.c.o   -c /usr/share/cmake/Modules/CheckFunctionExists.c
+Linking C executable cmTC_5b5da
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5b5da.dir/link.txt --verbose=1
+/cvmfs/sft.cern.ch/lcg/releases/gcc/8.3.0-cebb0/x86_64-centos7/bin/gcc  -DCHECK_FUNCTION_EXISTS=IceConnectionNumber    CMakeFiles/cmTC_5b5da.dir/CheckFunctionExists.c.o  -o cmTC_5b5da -lICE 
+gmake[1]: Leaving directory `/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/CMakeTmp'
 
 

@@ -1,7 +1,7 @@
-/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/install/strip.dir
-/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/edit_cache.dir
-/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/DetectorPhys_T1.dir
-/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/install.dir
-/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/rebuild_cache.dir
-/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/list_install_components.dir
-/.automount/home/home__home3/student/jl188824/Desktop/Experimental_Techniques/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/install/local.dir
+/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/install/strip.dir
+/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/edit_cache.dir
+/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/DetectorPhys_T1.dir
+/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/install.dir
+/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/rebuild_cache.dir
+/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/list_install_components.dir
+/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/02-Geometry-Basics-A-2020-11-05/DetectorPhys_T1/CMakeFiles/install/local.dir

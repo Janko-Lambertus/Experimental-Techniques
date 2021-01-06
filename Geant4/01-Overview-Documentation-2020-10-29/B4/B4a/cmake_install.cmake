@@ -1,4 +1,4 @@
-# Install script for directory: /.automount/home/home__home3/student/jl188824/Desktop/B4/B4a
+# Install script for directory: /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/01-Overview-Documentation-2020-10-29/B4/B4a
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,7 +44,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/exampleB4a"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "/.automount/home/home__home3/student/jl188824/Desktop/B4/B4a/exampleB4a")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/01-Overview-Documentation-2020-10-29/B4/B4a/exampleB4a")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/exampleB4a" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/exampleB4a")
     file(RPATH_CHANGE
@@ -65,5 +65,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/.automount/home/home__home3/student/jl188824/Desktop/B4/B4a/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/01-Overview-Documentation-2020-10-29/B4/B4a/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

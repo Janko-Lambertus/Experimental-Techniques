@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /.automount/home/home__home3/student/jl188824/Desktop/B4/B4a
+CMAKE_SOURCE_DIR = /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/01-Overview-Documentation-2020-10-29/B4/B4a
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /.automount/home/home__home3/student/jl188824/Desktop/B4/B4a
+CMAKE_BINARY_DIR = /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/01-Overview-Documentation-2020-10-29/B4/B4a
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -126,9 +126,9 @@ install/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /.automount/home/home__home3/student/jl188824/Desktop/B4/B4a/CMakeFiles /.automount/home/home__home3/student/jl188824/Desktop/B4/B4a/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/01-Overview-Documentation-2020-10-29/B4/B4a/CMakeFiles /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/01-Overview-Documentation-2020-10-29/B4/B4a/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /.automount/home/home__home3/student/jl188824/Desktop/B4/B4a/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /tmp/.x2go-jl188824/media/disk/_cygdrive_C_Users_JLamb_Desktop_Uni_ws20_EXPERI1.185/Geant4/01-Overview-Documentation-2020-10-29/B4/B4a/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
