@@ -1,0 +1,13 @@
+v 4
+file . "pwm.tb.vhd" "e8e49af849ce500a1b8ed9753f13a54059343030" "20210107222830.239":
+  entity pwm_tb at 1( 0) + 0 on 395;
+  architecture tb of pwm_tb at 7( 74) + 0 on 396;
+file . "counter.m.vhd" "cc7e57a5dae4dbeddf263c52e54223ecfc9fd179" "20210107222830.133":
+  entity counter at 6( 138) + 0 on 391;
+  architecture behaviour of counter at 23( 555) + 0 on 392;
+file . "simple_gate.tb.vhd" "76460aec54e2138a67ddfed905f03cd5753bb6ee" "20210107184302.727":
+  entity lecture01_tb at 1( 0) + 0 on 353;
+  architecture tb of lecture01_tb at 7( 86) + 0 on 354;
+file . "pwm.m.vhd" "93ab35ca67d2a38693033c7ab8f1e9638d0bc60d" "20210107222830.199":
+  entity pwm at 6( 141) + 0 on 393;
+  architecture behavior of pwm at 25( 651) + 0 on 394;

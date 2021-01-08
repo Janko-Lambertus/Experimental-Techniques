@@ -5,37 +5,36 @@
 
 library ieee;
 use ieee.std_logic_1164.all;
-
+use ieee.numeric_std.all;
 ----------------------------------------
-
 entity lecture01 is
 port(	
 	    i_sl_x : in  std_logic;
-	    i_sl_y : in  std_logic;
-            o_sl_AND  : out std_logic;
-            o_sl_OR   : out std_logic;
-            o_sl_NAND : out std_logic;
-            o_sl_NOR  : out std_logic;
-            o_sl_XOR  : out std_logic;
-            o_sl_NOT  : out std_logic
+	    i_sl_dir : in std_logic;
+	    i_sl_en : in std_logic;
+	    o_slv_shift : out std_logic_vector(7 downto 0)
 );
 end lecture01;  
 
 ----------------------------------------
 
 architecture behaviour of lecture01 is
+	signal shift_reg : std_logic_vector(7 downto 0) := "00000000";
 begin
 
     process(i_sl_x)
     begin
         -- compare to truth table
-        o_sl_AND <= i_sl_x AND i_sl_y;
-        o_sl_OR <= i_sl_x OR i_sl_y;
-        o_sl_NAND <= i_sl_x NAND i_sl_y;
-        o_sl_NOR <= i_sl_x NOR i_sl_y;
-        o_sl_XOR <= i_sl_x XOR i_sl_y;
-        o_sl_NOT <= NOT i_sl_y;
-
+	if rising_edge(i_sl_x) then
+		if (i_sl_en = '1') then
+		    if (i_sl_dir = '1') then
+			shift_reg <= std_logic_vector(unsigned(shift_reg)-1);
+		    else 
+			shift_reg <= std_logic_vector(unsigned(shift_reg)+1);
+		    end if;
+		end if;
+	end if;
+	o_slv_shift <= shift_reg;
     end process;
 end behaviour;
 

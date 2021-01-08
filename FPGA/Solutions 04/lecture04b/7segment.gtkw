@@ -1,0 +1,33 @@
+[*]
+[*] GTKWave Analyzer v3.3.97 (w)1999-2018 BSI
+[*] Wed Nov 18 09:16:29 2020
+[*]
+[dumpfile] "/.automount/home/home__home2/institut_3b/jsteinmann/Public/WS2020/lecture04b/7segment.vcd"
+[dumpfile_mtime] "Wed Nov 18 09:15:22 2020"
+[dumpfile_size] 32399
+[savefile] "/.automount/home/home__home2/institut_3b/jsteinmann/Public/WS2020/lecture04b/7segment.gtkw"
+[timestart] 0
+[size] 1920 969
+[pos] -1 -1
+*-24.018627 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] segment7_tb.
+[sst_width] 219
+[signals_width] 182
+[sst_expanded] 1
+[sst_vpaned_height] 287
+@800023
+segment7_tb.o_slv_segments[6:0]
+@29
+(0)segment7_tb.o_slv_segments[6:0]
+(1)segment7_tb.o_slv_segments[6:0]
+(2)segment7_tb.o_slv_segments[6:0]
+(3)segment7_tb.o_slv_segments[6:0]
+(4)segment7_tb.o_slv_segments[6:0]
+(5)segment7_tb.o_slv_segments[6:0]
+(6)segment7_tb.o_slv_segments[6:0]
+@1001201
+-group_end
+@22
+segment7_tb.number[3:0]
+[pattern_trace] 1
+[pattern_trace] 0

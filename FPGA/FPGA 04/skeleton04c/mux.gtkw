@@ -1,0 +1,25 @@
+[*]
+[*] GTKWave Analyzer v3.3.97 (w)1999-2018 BSI
+[*] Wed Nov 18 09:48:30 2020
+[*]
+[dumpfile] "/.automount/home/home__home2/institut_3b/jsteinmann/Public/WS2020/lecture04c/mux.vcd"
+[dumpfile_mtime] "Wed Nov 18 09:47:19 2020"
+[dumpfile_size] 52073
+[savefile] "/.automount/home/home__home2/institut_3b/jsteinmann/Public/WS2020/lecture04c/mux.gtkw"
+[timestart] 0
+[size] 1920 969
+[pos] -121 -80
+*-24.003019 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] mux_tb.
+[sst_width] 219
+[signals_width] 166
+[sst_expanded] 1
+[sst_vpaned_height] 287
+@22
+mux_tb.input[7:0]
+@25
+mux_tb.sel[7:0]
+@22
+mux_tb.o_slv_output[3:0]
+[pattern_trace] 1
+[pattern_trace] 0

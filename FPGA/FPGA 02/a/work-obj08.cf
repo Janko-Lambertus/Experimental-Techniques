@@ -1,0 +1,7 @@
+v 4
+file . "simple_gate.m.vhd" "b8f408d323c928ba80225eec0a43582d767922f6" "20210107164701.017":
+  entity lecture01 at 6( 138) + 0 on 185;
+  architecture behaviour of lecture01 at 20( 395) + 0 on 186;
+file . "simple_gate.tb.vhd" "d750e52699b4adc7ce965cdc4c52e23972e4305c" "20210107164701.058":
+  entity lecture01_tb at 1( 0) + 0 on 187;
+  architecture tb of lecture01_tb at 7( 86) + 0 on 188;

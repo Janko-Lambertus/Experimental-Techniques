@@ -1,0 +1,53 @@
+[*]
+[*] GTKWave Analyzer v3.3.97 (w)1999-2018 BSI
+[*] Wed Nov 18 13:10:44 2020
+[*]
+[dumpfile] "/.automount/home/home__home2/institut_3b/jsteinmann/Public/WS2020/lecture04a/addressdecoder.vcd"
+[dumpfile_mtime] "Wed Nov 18 13:09:41 2020"
+[dumpfile_size] 105365
+[savefile] "/.automount/home/home__home2/institut_3b/jsteinmann/Public/WS2020/lecture04a/addressdecoder.gtkw"
+[timestart] 0
+[size] 1920 969
+[pos] -1 -1
+*-22.010803 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] addressdecoder_tb.
+[sst_width] 219
+[signals_width] 294
+[sst_expanded] 1
+[sst_vpaned_height] 287
+@24
+addressdecoder_tb.address[2:0]
+@200
+-
+-1 HOT DECODER
+@800028
+addressdecoder_tb.o_slv_decoder1hot[7:0]
+@28
+(0)addressdecoder_tb.o_slv_decoder1hot[7:0]
+(1)addressdecoder_tb.o_slv_decoder1hot[7:0]
+(2)addressdecoder_tb.o_slv_decoder1hot[7:0]
+(3)addressdecoder_tb.o_slv_decoder1hot[7:0]
+(4)addressdecoder_tb.o_slv_decoder1hot[7:0]
+(5)addressdecoder_tb.o_slv_decoder1hot[7:0]
+(6)addressdecoder_tb.o_slv_decoder1hot[7:0]
+(7)addressdecoder_tb.o_slv_decoder1hot[7:0]
+@1001208
+-group_end
+@200
+-
+-1 COLD DECODER
+@800029
+addressdecoder_tb.o_slv_decoder1cold[7:0]
+@29
+(0)addressdecoder_tb.o_slv_decoder1cold[7:0]
+(1)addressdecoder_tb.o_slv_decoder1cold[7:0]
+(2)addressdecoder_tb.o_slv_decoder1cold[7:0]
+(3)addressdecoder_tb.o_slv_decoder1cold[7:0]
+(4)addressdecoder_tb.o_slv_decoder1cold[7:0]
+(5)addressdecoder_tb.o_slv_decoder1cold[7:0]
+(6)addressdecoder_tb.o_slv_decoder1cold[7:0]
+(7)addressdecoder_tb.o_slv_decoder1cold[7:0]
+@1001209
+-group_end
+[pattern_trace] 1
+[pattern_trace] 0

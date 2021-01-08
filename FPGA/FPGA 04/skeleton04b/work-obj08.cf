@@ -1,0 +1,7 @@
+v 4
+file . "7segment.tb.vhd" "787493f0a0096d6473bc974a0ffdcf5e6cf4b0a6" "20210108111125.274":
+  entity segment7_tb at 1( 0) + 0 on 73;
+  architecture tb of segment7_tb at 8( 110) + 0 on 74;
+file . "7segment.m.vhd" "41326c570ae7823bda261e8164780533753f5545" "20210108111125.210":
+  entity segment7 at 6( 141) + 0 on 71;
+  architecture behavior of segment7 at 21( 523) + 0 on 72;

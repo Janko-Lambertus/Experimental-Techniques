@@ -1,0 +1,253 @@
+$date
+  Wed Jan  6 12:50:47 2021
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module textio $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module lecture01_tb $end
+$var reg 1 ! x $end
+$var reg 1 " y $end
+$var reg 1 # o_sl_and $end
+$var reg 1 $ o_sl_or $end
+$var reg 1 % o_sl_nand $end
+$var reg 1 & o_sl_nor $end
+$var reg 1 ' o_sl_xor $end
+$var reg 1 ( o_sl_not $end
+$scope module uut $end
+$var reg 1 ) i_sl_x $end
+$var reg 1 * i_sl_y $end
+$var reg 1 + o_sl_and $end
+$var reg 1 , o_sl_or $end
+$var reg 1 - o_sl_nand $end
+$var reg 1 . o_sl_nor $end
+$var reg 1 / o_sl_xor $end
+$var reg 1 0 o_sl_not $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+0#
+0$
+1%
+1&
+0'
+1(
+0)
+0*
+0+
+0,
+1-
+1.
+0/
+10
+#10000000
+1!
+1$
+0&
+1'
+1)
+1,
+0.
+1/
+#20000000
+0!
+1"
+0(
+0)
+1*
+00
+#30000000
+1!
+1#
+0%
+0'
+1)
+1+
+0-
+0/
+#40000000
+0!
+0"
+0#
+0$
+1%
+1&
+1(
+0)
+0*
+0+
+0,
+1-
+1.
+10
+#50000000
+1!
+1$
+0&
+1'
+1)
+1,
+0.
+1/
+#60000000
+0!
+1"
+0(
+0)
+1*
+00
+#70000000
+1!
+1#
+0%
+0'
+1)
+1+
+0-
+0/
+#80000000
+0!
+0"
+0#
+0$
+1%
+1&
+1(
+0)
+0*
+0+
+0,
+1-
+1.
+10
+#90000000
+1!
+1$
+0&
+1'
+1)
+1,
+0.
+1/
+#100000000
+0!
+1"
+0(
+0)
+1*
+00
+#110000000
+1!
+1#
+0%
+0'
+1)
+1+
+0-
+0/
+#120000000
+0!
+0"
+0#
+0$
+1%
+1&
+1(
+0)
+0*
+0+
+0,
+1-
+1.
+10
+#130000000
+1!
+1$
+0&
+1'
+1)
+1,
+0.
+1/
+#140000000
+0!
+1"
+0(
+0)
+1*
+00
+#150000000
+1!
+1#
+0%
+0'
+1)
+1+
+0-
+0/
+#160000000
+0!
+0"
+0#
+0$
+1%
+1&
+1(
+0)
+0*
+0+
+0,
+1-
+1.
+10
+#170000000
+1!
+1$
+0&
+1'
+1)
+1,
+0.
+1/
+#180000000
+0!
+1"
+0(
+0)
+1*
+00
+#190000000
+1!
+1#
+0%
+0'
+1)
+1+
+0-
+0/
+#200000000
+0!
+0"
+0#
+0$
+1%
+1&
+1(
+0)
+0*
+0+
+0,
+1-
+1.
+10

@@ -1,0 +1,29 @@
+[*]
+[*] GTKWave Analyzer v3.3.97 (w)1999-2018 BSI
+[*] Wed Nov 11 12:14:06 2020
+[*]
+[dumpfile] "/.automount/home/home__home2/institut_3b/jsteinmann/Public/WS2020/lecture3c/pwm.vcd"
+[dumpfile_mtime] "Wed Nov 11 12:12:55 2020"
+[dumpfile_size] 66386
+[savefile] "/.automount/home/home__home2/institut_3b/jsteinmann/Public/WS2020/lecture3c/pwm.gtkw"
+[timestart] 0
+[size] 1920 969
+[pos] -1 -1
+*-23.887476 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] pwm_tb.
+[treeopen] pwm_tb.uut.
+[sst_width] 219
+[signals_width] 174
+[sst_expanded] 1
+[sst_vpaned_height] 287
+@28
+pwm_tb.clk
+pwm_tb.uut.o_sl_pwm
+pwm_tb.uut.o_sl_pwm
+@22
+pwm_tb.i_slv_val[3:0]
+pwm_tb.uut.slv_pwm_cnt[3:0]
+@23
+pwm_tb.uut.pwm_cnt.o_slv_counter[3:0]
+[pattern_trace] 1
+[pattern_trace] 0
